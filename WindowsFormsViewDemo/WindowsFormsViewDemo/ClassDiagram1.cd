@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="WindowsFormsViewDemo.FrmInputNumber">
+    <Position X="0.5" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAEAAAAAAIAAAAAA=</HashCode>
+      <FileName>FrmInputNumber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsViewDemo.Program">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsViewDemo.FormOut">
+    <Position X="4" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAIAAAAACBAAACAAEAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>FormOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsViewDemo.FrmRead" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACACAABAAACAAACCAAAAAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>FormIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="WindowsFormsViewDemo.IView">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAIEAAAAAAACA=</HashCode>
+      <FileName>IView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
